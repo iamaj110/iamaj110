@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamaj110
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning ReactJS, NodeJS
+- 🌱 I’m currently working with ReactJS, NodeJS
 - 💞️ I’m looking to collaborate on frontend Projects on ReactJS
 - 📫 You can reach me at ajkanherkar110@gmail.com
 
